@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/fyodor-dostoevsky/the-house-of-the-dead/constance-garnett</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2025-09-13T20:09:27Z</dc:date>
+		<meta property="dcterms:modified">2025-09-13T20:09:27Z</meta>
 		<dc:rights>The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -43,17 +43,17 @@
 		<meta property="term" refines="#subject-3">sh2008116962</meta>
 		<meta property="se:subject">Fiction</meta>
 		<meta property="se:subject">Memoir</meta>
-		<dc:description id="description">A former convict in 19th-century Russia reminisces on his experiences in a Siberian prison.</dc:description>
+		<dc:description id="description">A ex-convict in 19th-century Russia reminisces on his experiences in a Siberian prison.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;In 1849, &lt;a href="https://standardebooks.org/ebooks/fyodor-dostoevsky"&gt;Fyodor Dostoevsky&lt;/a&gt; was sent to a Siberian prison camp for four years due to his involvement in an organization that had been banned by the Tsar. While there, he experienced a personal transformation, and after another six years of exile, he returned to St. Petersburg and wrote the semi-autobiographical novel &lt;i&gt;The House of the Dead&lt;/i&gt;, which he finished in 1862.&lt;/p&gt;
-			&lt;p&gt;The book is structured around the reminisces of the main character of the novel, Alexandr Petrovtich Goryanchikov, who was sent to a hard labor camp in Siberia for murdering his wife. Over the course of the novel, he gets to know the other inhabitants of the prison, seeing the harsh brutality and the deep human decency that exists within both the guards and the convicts. The book has no conventional plot, but is organized around Alexandr Petrovitch gaining gradual insight into the true nature of the prison and its residents.&lt;/p&gt;
+			&lt;p&gt;The book is structured around the reminiscences of the protagonist, Alexandr Petrovtich Goryanchikov, who is sent to a hard labor camp in Siberia for murdering his wife. Over the course of the novel, he gets to know the prison’s other inhabitants, seeing the harsh brutality and the deep human decency that exists within both the guards and the convicts. The book has no conventional plot, but is organized around Alexandr Petrovitch gaining gradual insight into the true nature of the prison and its residents.&lt;/p&gt;
 			&lt;p&gt;Many events and characters in the book are drawn from Dostoevsky’s own experiences, and the enigma of the good and evil that exist in all people was a theme he would return to for the rest of his writing career. This book launched the “prison memoir” genre, and has been admired by many, including &lt;a href="https://standardebooks.org/ebooks/leo-tolstoy"&gt;Leo Tolstoy&lt;/a&gt; and &lt;a href="https://standardebooks.org/ebooks/ivan-turgenev"&gt;Ivan Turgenev&lt;/a&gt;.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://en.wikisource.org/wiki/The_House_of_the_Dead</dc:source>
 		<dc:source>https://books.google.com/books?id=S31ILF2SPqoC</dc:source>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">126011</meta>
+		<meta property="se:reading-ease.flesch">70.02</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_House_of_the_Dead_(novel)</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/fyodor-dostoevsky_the-house-of-the-dead_constance-garnett</meta>
 		<dc:creator id="author">Fyodor Dostoevsky</dc:creator>
@@ -91,6 +91,10 @@
 		<meta property="role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="producer-2">Robin Whittleton</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Whittleton, Robin</meta>
+		<meta property="se:url.homepage" refines="#producer-2">https://www.robinwhittleton.com/</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
