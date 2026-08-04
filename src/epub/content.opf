@@ -44,7 +44,7 @@
 		<meta property="term" refines="#subject-3">sh2008116962</meta>
 		<meta property="schema:genre">Fiction</meta>
 		<meta property="schema:genre">Memoir</meta>
-		<dc:abstract>A ex-convict in 19th-century Russia reminisces on his experiences in a Siberian prison.</dc:abstract>
+		<meta property="schema:abstract">A ex-convict in 19th-century Russia reminisces on his experiences in a Siberian prison.</meta>
 		<dc:description>
 			&lt;p&gt;In 1849, &lt;a href="https://standardebooks.org/ebooks/fyodor-dostoevsky"&gt;Fyodor Dostoevsky&lt;/a&gt; was sent to a Siberian prison camp for four years due to his involvement in an organization that had been banned by the Tsar. While there, he experienced a personal transformation, and after another six years of exile, he returned to St. Petersburg and wrote the semi-autobiographical novel &lt;i&gt;The House of the Dead&lt;/i&gt;, which he finished in 1862.&lt;/p&gt;
 			&lt;p&gt;The book is structured around the reminiscences of the protagonist, Alexandr Petrovtich Goryanchikov, who is sent to a hard labor camp in Siberia for murdering his wife. Over the course of the novel, he gets to know the prison’s other inhabitants, seeing the harsh brutality and the deep human decency that exists within both the guards and the convicts. The book has no conventional plot, but is organized around Alexandr Petrovitch gaining gradual insight into the true nature of the prison and its residents.&lt;/p&gt;
