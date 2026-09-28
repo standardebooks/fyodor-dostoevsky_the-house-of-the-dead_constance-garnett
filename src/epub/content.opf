@@ -76,9 +76,9 @@
 		<meta property="role" refines="#translator" scheme="marc:relators">trl</meta>
 		<dc:contributor id="artist">Nikolai Yaroshenko</dc:contributor>
 		<meta property="file-as" refines="#artist">Yaroshenko, Nikolai</meta>
-		<meta property="schema:alternateName" refines="#author">Nikolai Alexandrovich Yaroshenko</meta>
-		<meta property="alternate-script" refines="#author">Николай Александрович Ярошенко</meta>
-		<meta property="alternate-script" refines="#author">Микола Олександрович Ярошенко</meta>
+		<meta property="schema:alternateName" refines="#artist">Nikolai Alexandrovich Yaroshenko</meta>
+		<meta property="alternate-script" refines="#artist">Николай Александрович Ярошенко</meta>
+		<meta property="alternate-script" refines="#artist">Микола Олександрович Ярошенко</meta>
 		<link href="https://en.wikipedia.org/wiki/Nikolai_Yaroshenko" refines="#artist" rel="schema:sameAs"/>
 		<link href="https://id.loc.gov/authorities/names/n82254652.html" refines="#artist" rel="schema:sameAs"/>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
